@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["bfs_order_traversal","bns_first_true","bns_vanila", "bt_find_height", "bt_find_max", "bt_find_node", "bt_invert", "bt_matching", "dfs_max_depth", "graph_shortest_path", "ht_vanila", "linkedlist", "playground"]
+members = ["bfs_order_traversal","bns_first_true","bns_vanila", "bst_delete", "bst_validate", "bst_vanila", "bt_find_height", "bt_find_max", "bt_find_node", "bt_invert", "bt_matching", "dfs_max_depth", "graph_shortest_path", "ht_vanila", "linkedlist", "playground"]
 
 [workspace.dependencies]
 paris = {version = "1.5", features=["macros","timestamps"]}

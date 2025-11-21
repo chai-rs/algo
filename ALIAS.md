@@ -6,3 +6,4 @@
 5. `graph`: **Graph**
 6. `bfs`: **Breath First Search**
 7. `bt`: **Binary Tree**
+7. `bst`: **Binary Search Tree**
