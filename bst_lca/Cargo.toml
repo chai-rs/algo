@@ -1,0 +1,7 @@
+[package]
+name = "bst_lca"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bst_vanila = { path = "../bst_vanila" }
